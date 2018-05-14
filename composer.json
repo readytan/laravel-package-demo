@@ -1,0 +1,11 @@
+{
+    "name": "readytan/packagetest",
+    "description": "package test",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Readytan\\Packagetest\\": "src/"
+        }
+    }
+}
